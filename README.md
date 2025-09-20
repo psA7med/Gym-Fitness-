@@ -1,9 +1,8 @@
-# Movie Ticket Booking System #
+# Gym and fitness System #
 
-● A simple console-based movie ticket booking system in C#.
+● A simple console-based Fitness system in C#.
 
 # Team Members #
 - Eslame Mohamed >> 
-- jeorge Gamal >>
-- youssef Ahmed >>
+- Hassan >>
 - Ahmed Ali >>
